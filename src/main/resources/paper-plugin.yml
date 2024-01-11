@@ -1,0 +1,6 @@
+name: GoatSuperRam
+version: '${project.version}'
+main: top.cmarco.goatsuperram.GoatSuperRam
+api-version: '1.20'
+authors: [CMarco]
+description: Transform your goats into super goats!
