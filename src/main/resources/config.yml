@@ -1,0 +1,4 @@
+# Config file
+# modify values smartly, don't mess config up.
+# --------
+boost-player-only: false # Enable this to make ram boost also affect other mobs
